@@ -8,6 +8,12 @@ function App(props) {
             <BrowserRouter>
                 <Routes>
                     <Route path='/'/>
+                    <Route path='/'/>
+                    <Route path='/'/>
+                    <Route path='/'/>
+                    <Route path='/'/>
+                    <Route path='/'/>
+                    <Route path='/'/>
                 </Routes>
             </BrowserRouter>
         </div>
